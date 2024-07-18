@@ -1,0 +1,12 @@
+ReviewID,Rating,ReviewText,Date,UserID,BookID
+1,2,nobis,2020-08-31,5,8
+2,5,perspiciatis,2011-04-04,1,3
+3,5,temporibus,2006-10-08,6,5
+4,1,rerum,2006-04-24,4,4
+5,1,tempora,1991-06-14,2,7
+6,5,illo,2013-12-25,2,4
+7,3,saepe,1975-06-26,5,2
+8,5,inventore,1976-04-01,2,6
+9,5,excepturi,1992-02-19,9,3
+10,3,voluptatem,1998-03-17,1,7
+11,2,voluptas,1982-06-28,1,7
